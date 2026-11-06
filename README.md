@@ -15,7 +15,7 @@ Open to backend/AI engineering roles and internships.
 | Project | What it demonstrates | Stack |
 | --- | --- | --- |
 | [Preps (case study)](https://github.com/Zeusse-Neumbi/preps-showcase) | Source-grounded RAG, evidence contracts, deterministic planning, 9-job CI | Laravel, PostgreSQL/pgvector, Python, React |
-| [MD Editor](https://github.com/Zeusse-Neumbi/md-file-editor) | Cross-platform desktop app, Rust/React IPC, 52 tests, signed release pipeline | Tauri 2, Rust, React, TypeScript |
+| [MD Editor](https://github.com/Zeusse-Neumbi/md-file-editor) | Cross-platform desktop app, Rust/React IPC, 52 tests, cross-platform release pipeline | Tauri 2, Rust, React, TypeScript |
 | [Campus Connect](https://github.com/Zeusse-Neumbi/campus-connect) | Layered Java web architecture, four role portals, 59 tests | Jakarta EE, JSP, SQLite |
 | [Polyglot DB](https://github.com/Zeusse-Neumbi/polyglot-db) | Polyglot persistence, Docker, Prometheus, Grafana, benchmark design | Laravel, MariaDB, MongoDB, Redis |
 
